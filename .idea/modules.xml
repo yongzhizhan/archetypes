@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/archetype-generate-webapp/archetype-generate-webapp.iml" filepath="$PROJECT_DIR$/archetype-generate-webapp/archetype-generate-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archetypes.iml" filepath="$PROJECT_DIR$/archetypes.iml" />
+    </modules>
+  </component>
+</project>
