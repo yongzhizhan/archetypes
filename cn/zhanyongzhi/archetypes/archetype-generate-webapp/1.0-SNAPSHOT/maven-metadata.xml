@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>cn.zhanyongzhi.archetypes</groupId>
+  <artifactId>archetype-generate-webapp</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20161129.100031</timestamp>
+      <buildNumber>13</buildNumber>
+    </snapshot>
+    <lastUpdated>20161129100031</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20161129.100031-13</value>
+        <updated>20161129100031</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20161129.100031-13</value>
+        <updated>20161129100031</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
