@@ -14,8 +14,6 @@
 * 使用busboy支持文件上传
 * 集成了docker，使用docker-machine
 
-
-
 ## 使用
 
 安装依赖
