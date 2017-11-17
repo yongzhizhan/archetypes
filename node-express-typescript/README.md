@@ -15,6 +15,7 @@
 * 集成了docker，使用docker-machine
 
 
+
 ## 使用
 
 安装依赖
@@ -28,3 +29,8 @@
 预览效果，浏览器打开运行地址： 
     
     http://localhost:3002/index
+    
+## docker打包
+
+    ./build
+    
